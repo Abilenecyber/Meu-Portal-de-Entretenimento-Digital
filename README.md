@@ -9,10 +9,10 @@ Este é um projeto de portal web responsivo que reúne informações e conteúdo
 Aqui estão as capturas de tela de como o portal se comporta em diferentes dispositivos:
 
 ### 🖥️ Visão Desktop (Três Colunas Lado a Lado)
-![Visualização em Computador](imagens/print-desktop.png)
+![Visualização em Computador](Imagens/print-desktop.png)
 
 ### 📱 Visão Mobile (Colunas Empilhadas)
-![Visualização em Celular](imagens/print-mobile.png)
+![Visualização em Celular](Imagens/print-mobile.png)
 
 ---
 
