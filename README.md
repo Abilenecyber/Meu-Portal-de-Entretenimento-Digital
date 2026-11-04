@@ -9,10 +9,12 @@ Este é um projeto de portal web responsivo que reúne informações e conteúdo
 Aqui estão as capturas de tela de como o portal se comporta em diferentes dispositivos:
 
 ### 🖥️ Visão Desktop (Três Colunas Lado a Lado)
-![Visualização em Computador](Imagens/print-desktop.png)
+<img width="1354" height="641" alt="print-desktop png" src="https://github.com/user-attachments/assets/7bd1d703-b4f0-4cb0-8e50-756d3f6fb015" />
+
 
 ### 📱 Visão Mobile (Colunas Empilhadas)
-![Visualização em Celular](Imagens/print-mobile.png)
+<img width="396" height="553" alt="print-mobile png" src="https://github.com/user-attachments/assets/bf54a996-2bc6-43d7-86d2-5f9da4547111" />
+
 
 ---
 
@@ -23,25 +25,6 @@ Aqui estão as capturas de tela de como o portal se comporta em diferentes dispo
 *   **Flexbox:** Alinhamento adaptável das três seções principais.
 
 ---
-
-## 🏗️ Estrutura do Projeto
-
-O repositório está organizado da seguinte forma:
-
-```text
-├── imagens/
-│   ├── Filme e serie 1.jpg
-│   ├── ...
-│   ├── print-desktop.png    <-- Print usado neste README
-│   └── print-mobile.png     <-- Print usado neste README
-├── index.html               <-- Página principal do portal
-├── estilo.css               <-- Estilos visuais e Flexbox
-├── reset.css                <-- Limpeza de estilos padrões do navegador
-└── README.md                <-- Documentação do projeto
-```
-
----
-
 ## 👤 Autor
 
 Projeto desenvolvido por **Abilene Rodrigues**.
