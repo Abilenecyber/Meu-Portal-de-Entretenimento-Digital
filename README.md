@@ -1,6 +1,6 @@
 # 🌐 Meu Portal de Entretenimento Digital
 
-Este é um projeto de portal web que reúne informações e conteúdos sobre **Filmes e Séries**, **Música e Podcasts**, **Games e Tecnologia**. O projeto foi estruturado utilizando boas práticas de HTML semântico, layouts flexíveis com CSS Flexbox e organização de estilos.
+Este é um projeto de portal web que reúne informações e conteúdos sobre **Filmes/Séries**, **Música/Podcasts** e **Games/Tecnologia**. O projeto foi estruturado utilizando boas práticas de HTML semântico, layouts flexíveis com CSS Flexbox e organização de estilos.
 
 ---
 
